@@ -41,6 +41,7 @@ function App() {
   return (
     <>
       <div>
+        <h1>Gemini AI Chatbot</h1>
         <input
           ref={ref}
           onChange={(e) => {
